@@ -1,0 +1,4 @@
+export const SET_SIMPSONS = "SET_SIMPSONS";
+export const DELETE_CHARACTER = "DELETE_CHARACTER";
+export const SET_SEARCH_INPUT = "SET_SEARCH_INPUT";
+export const ON_LIKE_BUTTON = "ON_LIKE_BUTTON";
